@@ -4,9 +4,7 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 global.owner = [
-  ['573138952339', 'Unptoadrih15', true],
-  ['34642467703'],
-  ['79910189842']
+  ['5493534177799', 'Toroo.xit', true]
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
